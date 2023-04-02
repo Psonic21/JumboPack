@@ -9,4 +9,5 @@
 >- Go to releases and find the correct pack for your version of Minecraft: Java Edition
 >- At the bottom of the release, click on JumbPack vX.X.X.zip to download
 >- Drag and drop the JumboPack vX.X.X.zip into your resource pack folder
+>- Apply the pack through the Reasource Pack menu one in game
 >- And your done!
