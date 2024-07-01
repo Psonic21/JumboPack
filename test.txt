@@ -1,2 +1,0 @@
-This is a test, if you happen to read it, no you didn't
-This is a change to my test file from a place that I want to change it from.
