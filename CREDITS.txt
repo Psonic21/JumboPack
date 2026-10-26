@@ -5,7 +5,7 @@ All sounds were created by and used with the consent of:
 	Jumbosale_Gaming
 ---
 Villager Texture by:
-	Pualbo_Baggins
+	Paulbo_Baggins
 ---
 Wither Texture by:
 	TheCrimsonCrafter
@@ -14,7 +14,7 @@ Paintings by:
 	Psonic21
 ---
 End screen poem made with:
-	Chat GPT 
+	ChatGPT 
 (Yes I know, Im sorry, but it was too good not to use)
 ---
 
